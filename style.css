@@ -312,7 +312,6 @@ section .button button:hover{
   margin: 0 6px;
 }
 .skills-details .boxes{
-  
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
